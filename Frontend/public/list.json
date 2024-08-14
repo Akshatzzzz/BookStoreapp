@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Story Book",
+    "title": "Lorem, ipsum nfknf dfsjfsf mhiofijdsf jiojfjfhefj.",
+    "price": 0,
+    "category": "Free",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1723118651~exp=1723122251~hmac=1f9597d22b8811c9679ba61f020c32953b1e634472aa4221dc48f99557fe5213&w=740"
+  },
+  {
+    "id": 2,
+    "name": "Sports Book",
+    "title": "Lorem, ipsum nfknf dfsjfsf mhiofijdsf jiojfjfhefj.",
+    "price": 10,
+    "category": "Sports",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1723118651~exp=1723122251~hmac=1f9597d22b8811c9679ba61f020c32953b1e634472aa4221dc48f99557fe5213&w=740"
+  },
+  {
+    "id": 3,
+    "name": "Comedy Book",
+    "title": "Lorem, ipsum nfknf dfsjfsf mhiofijdsf jiojfjfhefj.",
+    "price": 20,
+    "category": "Entertainment",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1723118651~exp=1723122251~hmac=1f9597d22b8811c9679ba61f020c32953b1e634472aa4221dc48f99557fe5213&w=740"
+  },
+  {
+    "id": 4,
+    "name": "Music Book",
+    "title": "Lorem, ipsum nfknf dfsjfsf mhiofijdsf jiojfjfhefj.",
+    "price": 50,
+    "category": "Song",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1723118651~exp=1723122251~hmac=1f9597d22b8811c9679ba61f020c32953b1e634472aa4221dc48f99557fe5213&w=740"
+  },
+  {
+    "id": 5,
+    "name": "Novel Book",
+    "title": "Lorem, ipsum nfknf dfsjfsf mhiofijdsf jiojfjfhefj.",
+    "price": 0,
+    "category": "Free",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1723118651~exp=1723122251~hmac=1f9597d22b8811c9679ba61f020c32953b1e634472aa4221dc48f99557fe5213&w=740"
+  },
+  {
+    "id": 6,
+    "name": "History Book",
+    "title": "Lorem, ipsum nfknf dfsjfsf mhiofijdsf jiojfjfhefj.",
+    "price": 0,
+    "category": "Free",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1723118651~exp=1723122251~hmac=1f9597d22b8811c9679ba61f020c32953b1e634472aa4221dc48f99557fe5213&w=740"
+  },
+  {
+    "id": 7,
+    "name": "History Book",
+    "title": "Lorem, ipsum nfknf dfsjfsf mhiofijdsf jiojfjfhefj.",
+    "price": 0,
+    "category": "Free",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1723118651~exp=1723122251~hmac=1f9597d22b8811c9679ba61f020c32953b1e634472aa4221dc48f99557fe5213&w=740"
+  },
+  {
+    "id": 8,
+    "name": "History Book",
+    "title": "Lorem, ipsum nfknf dfsjfsf mhiofijdsf jiojfjfhefj.",
+    "price": 0,
+    "category": "Free",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1723118651~exp=1723122251~hmac=1f9597d22b8811c9679ba61f020c32953b1e634472aa4221dc48f99557fe5213&w=740"
+  },
+  {
+    "id": 9,
+    "name": "Sports Book",
+    "title": "Lorem, ipsum nfknf dfsjfsf mhiofijdsf jiojfjfhefj.",
+    "price": 10,
+    "category": "Sports",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1723118651~exp=1723122251~hmac=1f9597d22b8811c9679ba61f020c32953b1e634472aa4221dc48f99557fe5213&w=740"
+  }
+]
